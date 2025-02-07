@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Rody Avila 🚀  
+## 🌎 Desarrollador Full-Stack | Apasionado por la tecnología y el aprendizaje continuo  
 
-<!--
-**Roddek-Dev/Roddek-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📌 Sobre mí  
+🔹 **Nombre:** Rody Avila  
+🔹 **Ubicación:** 🇨🇴 Colombia  
+🔹 **Idiomas:** Español (Nativo) 🇪🇸 | Inglés (Básico) 🇬🇧  
 
-Here are some ideas to get you started:
+💻 **Tecnologías y herramientas:**  
+🚀 Java | Spring Boot | PHP | Laravel | React | SQL | GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📢 **Experiencia:**  
+- 🎯 **Desarrollador Web en Digitaliza** (2022 - Presente)  
+- 🎓 **Estudiante de Análisis y Desarrollo de Software en el SENA** (2023 - 2026)  
+
+📈 **Habilidades adicionales:**  
+📊 Marketing Digital | 🎯 Gestión de Anuncios Meta Ads | 🎨 Creación de Contenido  
+
+## 📫 ¡Conéctate conmigo!  
+🔗 [LinkedIn](https://www.linkedin.com/in/roddek-dev/)  
+🔗 [GitHub](https://github.com/Roddek-Dev)  
+🔗 [Portafolio](https://digitaliza.com.co/)  
+
+⚡ **Siempre aprendiendo y en busca de nuevos retos. ¡Construyamos juntos!** 🚀
